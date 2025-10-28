@@ -44,7 +44,7 @@
       const prev = txt.value;
       try{
         txt.value='処理中...';
-        const res=await encryptText(txt.valueBefore||prev,pw);
+        const res = await encryptText(prev, pw);
         txt.value=res;
       }catch(e){
         txt.value = prev;
@@ -65,8 +65,6 @@
         alert('エラー: '+e.message);
       }
     });
-
-    document.getElementById('text').addEventListener('focus',function(){this.valueBefore=this.value});
   </script>
 </body>
 </html>
