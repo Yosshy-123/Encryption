@@ -1,6 +1,6 @@
 # Encryption - ローカル AES 暗号化ツール
 
-[English](./README.md)
+[Read in English](./README.md)
 
 ## 概要
 本リポジトリは、ブラウザのみで動作する**オフライン対応の AES 暗号化ツール**です。
