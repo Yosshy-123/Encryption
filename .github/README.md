@@ -6,7 +6,7 @@
 
 This repository is an **offline-capable AES encryption tool that runs entirely in the browser**.
 
-If you save and open [`index.html`](./index.html) locally, you can encrypt and decrypt text offline.
+Save [`index.html`](../index.html) locally and run it to enable offline text encryption and decryption.
 
 ---
 
