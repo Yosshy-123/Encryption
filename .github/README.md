@@ -1,6 +1,6 @@
 # Encryption - Local AES Encryption Tool
 
-[日本語](./README.ja.md)
+[日本語で読む](./README.ja.md)
 
 ## Overview
 
