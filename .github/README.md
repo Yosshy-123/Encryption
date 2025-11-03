@@ -1,10 +1,10 @@
-# Encryption - Local AES Encryption Tool
+# Encryption - Local Encryption Tool
 
 [日本語で読む](./README.ja.md)
 
 ## Overview
 
-This repository is an **offline-capable AES encryption tool that runs entirely in the browser**.
+This repository is an **offline-capable encryption tool that runs entirely in the browser**.
 
 Save [`index.html`](../index.html) locally and run it to enable offline text encryption and decryption.
 
