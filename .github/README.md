@@ -6,8 +6,6 @@
 
 This repository is an **offline-capable encryption tool that runs entirely in the browser**.
 
-Save [`index.html`](../index.html) locally and run it to enable offline text encryption and decryption.
-
 ---
 
 ## How to use
@@ -25,7 +23,6 @@ Save [`index.html`](../index.html) locally and run it to enable offline text enc
 
 ## Implementation overview and important notes
 
-* The encryption process is performed by JavaScript embedded in [`index.html`](./index.html).
 * This implementation does not use the browser-native Web Crypto API.
 * Password management is the user's responsibility. Short or simple passwords are easy to break, so a strong password is recommended.
 * Even when running locally, be careful about how you store and share encrypted data. Consider sending via secure channels and storing it securely.
